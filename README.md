@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kpracheta
-- 👀 I’m interested in Web3
-- 🌱 I’m currently learning java and web development
+- 👀 I’m a Tech enthusiast
+- 🌱 I’m currently learning Java and web development
 - 📫 How to reach me email:prachetakhadgi@gmail.com 
 
 <!---
